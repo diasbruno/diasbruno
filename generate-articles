@@ -1,0 +1,27 @@
+#! /usr/bin/env bash
+
+set -eu
+
+source "../site-content/tools.bash"
+
+function render_date_dest_fs {
+    TZ=UTC date "+%Y/%m/%d" -d "${1}"
+}
+
+CONTENT_DIR=/usr/local/src/site-content/contents
+
+ALL_CONTENTS="`ls -r ${CONTENT_DIR} | head -n 10`"
+
+SITE_URL="https://diasbruno.github.io/articles"
+
+function render_tag {
+    local date_path="`render_date_dest_fs "${2}"`"
+
+    echo "[${1}](${SITE_URL}/${date_path}/${3}.html)"
+}
+
+for content in $ALL_CONTENTS; do
+    source "${CONTENT_DIR}/${content}/metadata.sh"
+
+    render_tag "${TITLE}" "${DATE}" "${SLUG}"
+done
