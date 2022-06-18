@@ -36,6 +36,8 @@ currently, i'm enjoying diagrams and specifications.
 
 #### articles
 
+[Fun with Rust, MQTT, LoRa and Raspiberry Pi](https://diasbruno.github.io/articles/2022/06/18/fun-with-rust-mqtt-lora-and-raspiberry-pi.html)
+
 [Property-based testing for the win!](https://diasbruno.github.io/articles/2022/05/28/property-based-testing-for-the-win.html)
 
 [Processes and pipes in OOP](https://diasbruno.github.io/articles/2022/03/30/processes-and-pipes-in-oop.html)
