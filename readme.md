@@ -1,7 +1,3 @@
-# hi!
-
-currently, i'm enjoying diagrams and specifications.
-
 #### languages
 
 ![javascript/typescript](https://img.shields.io/static/v1?label=&message=javascript/typescript&color=171717&style=flat-square)
