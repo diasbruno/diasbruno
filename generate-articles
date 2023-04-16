@@ -8,6 +8,10 @@ function render_date_dest_fs {
     TZ=UTC date "+%Y/%m/%d" -d "${1}"
 }
 
+function render_date {
+    TZ=UTC date "+%d/%m/%Y" -d "${1}"
+}
+
 CONTENT_DIR=/usr/local/src/site-content/contents
 
 ALL_CONTENTS="`ls -r ${CONTENT_DIR}`"
@@ -15,9 +19,10 @@ ALL_CONTENTS="`ls -r ${CONTENT_DIR}`"
 SITE_URL="https://diasbruno.github.io/articles"
 
 function render_tag {
+    local article_date="`render_date ${2}`"
     local date_path="`render_date_dest_fs "${2}"`"
 
-    echo -e "[${1}](${SITE_URL}/${date_path}/${3}.html)\n"
+    echo -e "[${article_date} - ${1}](${SITE_URL}/${date_path}/${3}.html)\n"
 }
 
 for content in $ALL_CONTENTS; do
