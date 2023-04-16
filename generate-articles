@@ -23,5 +23,6 @@ function render_tag {
 for content in $ALL_CONTENTS; do
     source "${CONTENT_DIR}/${content}/metadata.sh"
 
-    render_tag "${TITLE}" "${DATE}" "${SLUG}"
+    [ "$STATUS" != "hidden" ] &&
+	render_tag "${TITLE}" "${DATE}" "${SLUG}"
 done
