@@ -32,22 +32,16 @@
 
 #### articles
 
+[zippers](https://diasbruno.github.io/articles/2023/03/23/zippers.html)
+
+[even more ideas with types and javascript (equality, ordering and enumeration)](https://diasbruno.github.io/articles/2023/03/19/even-more-ideas-with-types-and-javascript--equality--ordering-and-enumeration-.html)
+
+[some interesting ideas with types and javascript](https://diasbruno.github.io/articles/2023/03/17/some-interesting-ideas-with-types-and-javascript.html)
+
+[forget about state; think about events/commands](https://diasbruno.github.io/articles/2023/03/12/forget-about-state--think-about-events.html)
+
+[It's time to retire conventional commit](https://diasbruno.github.io/articles/2023/02/10/its-time-to-retire-conventional-commit.html)
+
 [Fun with Rust, MQTT, LoRa and Raspiberry Pi](https://diasbruno.github.io/articles/2022/06/18/fun-with-rust-mqtt-lora-and-raspiberry-pi.html)
 
 [Property-based testing for the win!](https://diasbruno.github.io/articles/2022/05/28/property-based-testing-for-the-win.html)
-
-[Processes and pipes in OOP](https://diasbruno.github.io/articles/2022/03/30/processes-and-pipes-in-oop.html)
-
-[Modeling algorithms with types](https://diasbruno.github.io/articles/2021/12/03/modeling-algorithms-with-types.html)
-
-[I love Comby!](https://diasbruno.github.io/articles/2021/06/08/i-love-comby.html)
-
-[Retrying promises](https://diasbruno.github.io/articles/2021/03/23/retrying-promises.html)
-
-[Transpiling code from other languages](https://diasbruno.github.io/articles/2021/03/05/transpiling-code-from-other-languages.html)
-
-[Patterns: Writing a step component](https://diasbruno.github.io/articles/2020/04/29/patterns-writing-a-step-component.html)
-
-[I love makefiles](https://diasbruno.github.io/articles/2020/03/21/i-love-makefiles.html)
-
-[Metaprogramming in javascript](https://diasbruno.github.io/articles/2020/03/20/metaprogramming-in-javascript.html)
