@@ -10,14 +10,14 @@ function render_date_dest_fs {
 
 CONTENT_DIR=/usr/local/src/site-content/contents
 
-ALL_CONTENTS="`ls -r ${CONTENT_DIR} | head -n 10`"
+ALL_CONTENTS="`ls -r ${CONTENT_DIR}`"
 
 SITE_URL="https://diasbruno.github.io/articles"
 
 function render_tag {
     local date_path="`render_date_dest_fs "${2}"`"
 
-    echo "[${1}](${SITE_URL}/${date_path}/${3}.html)"
+    echo -e "[${1}](${SITE_URL}/${date_path}/${3}.html)\n"
 }
 
 for content in $ALL_CONTENTS; do
