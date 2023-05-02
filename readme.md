@@ -22,32 +22,32 @@
 
 #### articles
 
-[23/03/2023 - zippers](https://diasbruno.github.io/articles/2023/03/23/zippers.html)
+[23/03/2023 - zippers](https://diasbruno.github.io/articles/2023/03/23/zippers)
 
-[19/03/2023 - even more ideas with types and javascript (equality, ordering and enumeration)](https://diasbruno.github.io/articles/2023/03/19/even-more-ideas-with-types-and-javascript--equality--ordering-and-enumeration-.html)
+[19/03/2023 - even more ideas with types and javascript (equality, ordering and enumeration)](https://diasbruno.github.io/articles/2023/03/19/even-more-ideas-with-types-and-javascript--equality--ordering-and-enumeration-)
 
-[17/03/2023 - some interesting ideas with types and javascript](https://diasbruno.github.io/articles/2023/03/17/some-interesting-ideas-with-types-and-javascript.html)
+[17/03/2023 - some interesting ideas with types and javascript](https://diasbruno.github.io/articles/2023/03/17/some-interesting-ideas-with-types-and-javascript)
 
-[12/03/2023 - forget about state; think about events/commands](https://diasbruno.github.io/articles/2023/03/12/forget-about-state--think-about-events.html)
+[12/03/2023 - forget about state; think about events/commands](https://diasbruno.github.io/articles/2023/03/12/forget-about-state--think-about-events)
 
-[10/02/2023 - It's time to retire conventional commit](https://diasbruno.github.io/articles/2023/02/10/its-time-to-retire-conventional-commit.html)
+[10/02/2023 - It's time to retire conventional commit](https://diasbruno.github.io/articles/2023/02/10/its-time-to-retire-conventional-commit)
 
-[18/06/2022 - Fun with Rust, MQTT, LoRa and Raspiberry Pi](https://diasbruno.github.io/articles/2022/06/18/fun-with-rust-mqtt-lora-and-raspiberry-pi.html)
+[18/06/2022 - Fun with Rust, MQTT, LoRa and Raspiberry Pi](https://diasbruno.github.io/articles/2022/06/18/fun-with-rust-mqtt-lora-and-raspiberry-pi)
 
-[28/05/2022 - Property-based testing for the win!](https://diasbruno.github.io/articles/2022/05/28/property-based-testing-for-the-win.html)
+[28/05/2022 - Property-based testing for the win!](https://diasbruno.github.io/articles/2022/05/28/property-based-testing-for-the-win)
 
-[30/03/2022 - Processes and pipes in OOP](https://diasbruno.github.io/articles/2022/03/30/processes-and-pipes-in-oop.html)
+[30/03/2022 - Processes and pipes in OOP](https://diasbruno.github.io/articles/2022/03/30/processes-and-pipes-in-oop)
 
-[03/12/2021 - Modeling algorithms with types](https://diasbruno.github.io/articles/2021/12/03/modeling-algorithms-with-types.html)
+[03/12/2021 - Modeling algorithms with types](https://diasbruno.github.io/articles/2021/12/03/modeling-algorithms-with-types)
 
-[08/06/2021 - I love Comby!](https://diasbruno.github.io/articles/2021/06/08/i-love-comby.html)
+[08/06/2021 - I love Comby!](https://diasbruno.github.io/articles/2021/06/08/i-love-comby)
 
-[23/03/2021 - Retrying promises](https://diasbruno.github.io/articles/2021/03/23/retrying-promises.html)
+[23/03/2021 - Retrying promises](https://diasbruno.github.io/articles/2021/03/23/retrying-promises)
 
-[05/03/2021 - Transpiling code from other languages](https://diasbruno.github.io/articles/2021/03/05/transpiling-code-from-other-languages.html)
+[05/03/2021 - Transpiling code from other languages](https://diasbruno.github.io/articles/2021/03/05/transpiling-code-from-other-languages)
 
-[29/04/2020 - Patterns: Writing a step component](https://diasbruno.github.io/articles/2020/04/29/patterns-writing-a-step-component.html)
+[29/04/2020 - Patterns: Writing a step component](https://diasbruno.github.io/articles/2020/04/29/patterns-writing-a-step-component)
 
-[21/03/2020 - I love makefiles](https://diasbruno.github.io/articles/2020/03/21/i-love-makefiles.html)
+[21/03/2020 - I love makefiles](https://diasbruno.github.io/articles/2020/03/21/i-love-makefiles)
 
-[20/03/2020 - Metaprogramming in javascript](https://diasbruno.github.io/articles/2020/03/20/metaprogramming-in-javascript.html)
+[20/03/2020 - Metaprogramming in javascript](https://diasbruno.github.io/articles/2020/03/20/metaprogramming-in-javascript)
