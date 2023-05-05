@@ -22,6 +22,8 @@
 
 #### articles
 
+[04/05/2023 - working with Sets and some ideas](https://diasbruno.github.io/articles/2023/05/04/working-with-sets-and-some-ideas)
+
 [23/03/2023 - zippers](https://diasbruno.github.io/articles/2023/03/23/zippers)
 
 [19/03/2023 - even more ideas with types and javascript (equality, ordering and enumeration)](https://diasbruno.github.io/articles/2023/03/19/even-more-ideas-with-types-and-javascript--equality--ordering-and-enumeration-)
