@@ -3,7 +3,7 @@
 ![common lisp](https://img.shields.io/static/v1?label=&message=common%20lisp&color=171717&style=flat-square)
 ![haskell](https://img.shields.io/static/v1?label=&message=haskell&color=171717&style=flat-square)
 ![c/c++](https://img.shields.io/static/v1?label=&message=c/c%2B%2B&color=171717&style=flat-square)
-![erlang/elixir](https://img.shields.io/static/v1?label=&message=erlang/elixir&color=171717&style=flat-square)
+![erlang/elixir/lfe](https://img.shields.io/static/v1?label=&message=erlang/elixir/lfe&color=171717&style=flat-square)
 ![rust](https://img.shields.io/static/v1?label=&message=rust&color=171717&style=flat-square)
 ![go](https://img.shields.io/static/v1?label=&message=go&color=171717&style=flat-square)
 ![python](https://img.shields.io/static/v1?label=&message=python&color=171717&style=flat-square)
