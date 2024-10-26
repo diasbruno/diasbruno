@@ -11,3 +11,5 @@
 
 [github:@js-sdk](https://github.com/js-sdk)
 
+[github:@c-sdk](https://github.com/c-sdk)
+
