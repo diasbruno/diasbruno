@@ -1,5 +1,5 @@
 I'm a Senior Software Engineer currently working with Common Lisp, Haskell, 
-Elm and Javascript/Typescript. Also, but work in Ruby and Python. 
+Elm and Javascript/Typescript. But also work in Ruby and Python. 
 F#, C/C++, Rust and Go are in my list of interests.
 
 On my free time, I'm a skateboard, tennis player and musician.
