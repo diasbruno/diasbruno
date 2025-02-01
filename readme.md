@@ -6,7 +6,7 @@ Currently, I'm working on meta programming systems to leverage the power
 of run-time and compile-time code generation targeting many languages 
 using common lisp. 
 
-[cl-sdk/meta](https://github.com/cl-sdk/meta)
+[cl-sdk/meta-definitions](https://github.com/cl-sdk/meta-definitions)
 
 [cl-sdk/type-transpiler](https://github.com/cl-sdk/type-transpiler)
 
