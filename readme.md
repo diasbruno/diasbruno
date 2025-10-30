@@ -14,6 +14,8 @@ On my free time, I'm a skateboarder, tennis player and musician.
 
 ## Work related
 
+[Substack @diasbruno](https://substack.com/@diasbruno)
+
 [Blog/Site](https://diasbruno.github.io)
 
 [My open-source projects](https://diasbruno.github.io/opensource)
