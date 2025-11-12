@@ -1,3 +1,5 @@
+![diasbruno](https://github.com/diasbruno/diasbruno/blob/master/headers.png?raw=true)
+
 I'm a Senior Software Engineer currently working with Common Lisp, Haskell, 
 Elm and Javascript/Typescript. But also Ruby and Python. 
 F#, C/C++, Rust and Go are in my list of interests.
