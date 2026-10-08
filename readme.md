@@ -12,6 +12,17 @@ using common lisp.
 
 [cl-sdk/type-transpiler](https://github.com/cl-sdk/type-transpiler)
 
+<table border="0">
+  <tr>
+    <td width="180">
+      <img src="verona.png" alt="Verona" width="160">
+    </td>
+    <td>
+      I'm also contributing to the development of <a href="https://verona-project.github.io">Verona</a>, a statically typed language with an S-expression syntax. It compiles through LLVM and makes C interoperability an explicit part of the language model.
+    </td>
+  </tr>
+</table>
+
 On my free time, I'm a skateboarder, tennis player and musician.
 
 ## Work related
